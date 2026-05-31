@@ -6,6 +6,9 @@
 - 효율적인 코드 작성과 문제 해결에 집중하며, 새로운 기술과 트렌드 학습을 즐깁니다.
 - 협업과 지식 공유를 중요시하며, 팀과 함께 성장하는 것을 목표로 하고 있습니다.
 
+## 🔎 Open Source Interests
+- Following [RustChain](https://github.com/Scottcjn/Rustchain), a Proof-of-Antiquity blockchain project exploring hardware-based participation and agent economy workflows.
+
 ## 🛠 Tech Stack
 
 <span style="display: inline;">
